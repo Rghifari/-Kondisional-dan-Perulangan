@@ -69,8 +69,21 @@ print(bubble_sort(unordered))
 
 # Codingan
 ```
-
+print(list(range(10)))
+print(list(range(1, 11)))
+print(list(range(2, 12)))
+print(list(range(3, 13)))
+print(list(range(4, 14)))
+print(list(range(5, 15)))
+print(list(range(6, 16)))
+print(list(range(7, 17)))
+print(list(range(8, 18)))
+print(list(range(9, 19)))
 ```
+<img width="705" alt="Perulangan bertingkat" src="https://user-images.githubusercontent.com/93661771/141139646-f36b4280-b726-4acd-b753-7f8552c645fc.PNG">
+
+# Hasil Output Codingan
+<img width="808" alt="output perulangan bertingkat" src="https://user-images.githubusercontent.com/93661771/141139750-7bed1b34-3613-4f7a-83bf-890a10bef541.PNG">
 
 *Latihan 2
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.

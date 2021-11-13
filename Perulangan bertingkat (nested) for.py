@@ -47,3 +47,4 @@ s = ''
 for i in range (9, 19):
     s += str(i) +'   '
 print (s)
+

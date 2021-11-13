@@ -43,24 +43,20 @@ print('Nilai Terbesar adalah %d' % maks)
 
 # Codingan
 ```
-def bubble_sort(array):
-    n = len(array) # jumlah list
-    # perulangan pertama
-    for i in range(n):
-        # perulangan kedua
-        for j in range(n - i - 1):
-            # bandingkan masing" elemen
-            if array[j] > array[j + 1]:
-                # jika lebih besar, tukar.
-                array[j], array[j + 1] = array[j + 1], array[j]
-    return array
-
-print(' ')
-unordered = [5, 3, 4, 8, 1, 2, 9, 6]
-print(bubble_sort(unordered))
+print('')
+print("Program mengurutkan data")
+data = []
+for i in range (3):
+    x = int(input('Masukan bilangan: '))
+    data.append(x)
+print('Data sebelum diurutkan: ', data)
+list.sort(data)
+print('Data sesudah diurutkan: ', data)
 ```
+<img width="704" alt="Variable urutan data terkecil" src="https://user-images.githubusercontent.com/93661771/141644854-a7d5bcf1-3d1b-46e0-b2ff-bfabcb55d82a.PNG">
 
-
+# Hasil Output Codingan Program mengurutkan data
+<img width="941" alt="Output variable" src="https://user-images.githubusercontent.com/93661771/141644874-e8da61c1-4304-4279-9c92-e7257dc29f02.PNG">
 
 # Lab 3 : Perulangan
 

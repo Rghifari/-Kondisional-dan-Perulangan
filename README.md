@@ -116,10 +116,12 @@ for i in range (9, 19):
 print (s)
 
 ```
-<img width="705" alt="Perulangan bertingkat" src="https://user-images.githubusercontent.com/93661771/141139646-f36b4280-b726-4acd-b753-7f8552c645fc.PNG">
+<img width="703" alt="perulangan22" src="https://user-images.githubusercontent.com/93661771/141647884-6c999d6f-db7e-4337-abeb-d5e68d2469df.PNG">
+<img width="776" alt="333" src="https://user-images.githubusercontent.com/93661771/141648046-ab586c76-fe07-4818-a10f-7de6ca36ffc4.PNG">
+<img width="778" alt="444" src="https://user-images.githubusercontent.com/93661771/141648061-55f5d1a8-17d9-4b5d-a2f0-519a221ee782.PNG">
 
 # Hasil Output Codingan
-<img width="808" alt="output perulangan bertingkat" src="https://user-images.githubusercontent.com/93661771/141139750-7bed1b34-3613-4f7a-83bf-890a10bef541.PNG">
+![2](https://user-images.githubusercontent.com/93661771/141648070-b7259ebe-9a61-455c-bf22-cecdbb1b874a.jpg)
 
 *Latihan 2
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.

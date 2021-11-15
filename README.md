@@ -121,7 +121,7 @@ print (s)
 <img width="778" alt="444" src="https://user-images.githubusercontent.com/93661771/141648061-55f5d1a8-17d9-4b5d-a2f0-519a221ee782.PNG">
 
 # Hasil Output Codingan
-![2](https://user-images.githubusercontent.com/93661771/141648070-b7259ebe-9a61-455c-bf22-cecdbb1b874a.jpg)
+<img width="943" alt="end" src="https://user-images.githubusercontent.com/93661771/141784182-24ee62ba-56d9-48d7-acaa-e702e787f7e0.PNG">
 
 *Latihan 2
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.

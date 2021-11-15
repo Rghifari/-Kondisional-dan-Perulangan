@@ -67,58 +67,56 @@ print('Data sesudah diurutkan: ', data)
 ```
 s = ''
 for i in range (10):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (1, 11):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (2, 12):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (3, 13):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (4, 14):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (5, 15):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (6, 16):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (7, 17):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (8, 18):
-    s += str(i) +'   '
+    s += str(i) +'\t   '
 print (s)
 
 s = ''
 for i in range (9, 19):
-    s += str(i) +'   '
-print (s)
-
+    s += str(i) +'\t   '
+print(s)
 ```
-<img width="703" alt="perulangan22" src="https://user-images.githubusercontent.com/93661771/141647884-6c999d6f-db7e-4337-abeb-d5e68d2469df.PNG">
-<img width="776" alt="333" src="https://user-images.githubusercontent.com/93661771/141648046-ab586c76-fe07-4818-a10f-7de6ca36ffc4.PNG">
-<img width="778" alt="444" src="https://user-images.githubusercontent.com/93661771/141648061-55f5d1a8-17d9-4b5d-a2f0-519a221ee782.PNG">
+<img width="777" alt="new11" src="https://user-images.githubusercontent.com/93661771/141786316-3def5504-7fbe-4e22-87cb-859c181a7647.PNG">
+<img width="777" alt="new22" src="https://user-images.githubusercontent.com/93661771/141786440-0d8abb33-2f6c-4aa8-9527-d44ae0148e66.PNG">
 
 # Hasil Output Codingan
 <img width="943" alt="end" src="https://user-images.githubusercontent.com/93661771/141784182-24ee62ba-56d9-48d7-acaa-e702e787f7e0.PNG">

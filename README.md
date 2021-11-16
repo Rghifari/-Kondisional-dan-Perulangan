@@ -148,8 +148,10 @@ while jawab == "lanjutkan":
         break
 print('Total perulangan : ' + str (hitung))
 ```
+<img width="704" alt="LATIHAN1 03" src="https://user-images.githubusercontent.com/93661771/141990866-37f7d688-85b9-47db-99a6-8a499266fadf.PNG">
+
 # Hasil Codingan (Program)
-![hasil codingan](https://user-images.githubusercontent.com/46749500/53287636-a9dbbc80-37b1-11e9-8043-13169152b9dd.png)
+<img width="945" alt="LATIHAN1 HASIL CODINGAN 03" src="https://user-images.githubusercontent.com/93661771/141991158-db2f08e1-85df-4954-9e00-24cda4572a3c.PNG">
 
 # Tugas Latihan 
 1. Simpan project Praktikum hari ini ke repository server.
